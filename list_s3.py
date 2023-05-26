@@ -1,7 +1,7 @@
 import boto3
 
 aws_access_key_id = 'AKIASP2TPHJS73Z4VRPW'
-aws_secret_access_key = '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'
+aws_secret_access_key = 'TA44Sf+MU5sXB49I5A3mzwzQT+fRxPtZs6KiehRR'
 output = json
 region = us-east-2
 
